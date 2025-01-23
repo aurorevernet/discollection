@@ -1,0 +1,13 @@
+//
+//  Info.plist
+//  Discollection
+//
+//  Created by Aurore Vernet on 22/01/2025.
+//
+
+<key>UIAppFonts</key>
+<array>
+    <string>Jaro-Regular.ttf</string>
+    <string>Jaldi-Bold.ttf</string>
+    <string>Jaro-Regular.ttf</string>
+</array>
